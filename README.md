@@ -47,46 +47,4 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install pygame
 
 
-▶️ Usage
-bash
-Copy
-Edit
-python MotionDetection.py
-A Pygame window will open and begin the motion detection simulation.
-
-Follow on-screen prompts or alerts if included.
-
-🧪 Project Structure
-bash
-Copy
-Edit
-ALERT-GUARD-MOTION-DETECTION/
-│
-├── MotionDetection.py      # Main script
-├── .venv/                  # Virtual environment (excluded from Git)
-├── .gitignore              # Ignores unnecessary files
-├── README.md               # Project overview
-📦 Future Enhancements
-Integrate webcam support using OpenCV
-
-Sound or email alerts on detection
-
-Record and store motion timestamps
-
-Build a desktop GUI using Tkinter or PyQt
-
-🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
-📄 License
-This project is licensed under the MIT License.
-
-🙌 Acknowledgements
-Thanks to the Python and Pygame communities for their open-source support.
-
-Made with ❤️ by Sukhesh Chittanuri
-
-yaml
-Copy
-Edit
 
